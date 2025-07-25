@@ -13,7 +13,7 @@ This is a beginner-level Java console quiz game. The player can choose the numbe
 - Score tracking
 - High scores saved to file
 
- ##Libraries
+ #Libraries
  - JSON.simple1.1.1 - Lightweight JSON processing library
 
 ## Author
